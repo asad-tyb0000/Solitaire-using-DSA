@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|c:\\users\\asadt\\desktop\\new folder\\classlibrary\\classlibrary\\ui\\movementlimits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|solutionrelative:classlibrary\\ui\\movementlimits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classlibrary\\dl\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|solutionrelative:classlibrary\\dl\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classlibrary\\bl\\stacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|solutionrelative:classlibrary\\bl\\stacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classlibrary\\bl\\nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|solutionrelative:classlibrary\\bl\\nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classlibrary\\ui\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|solutionrelative:classlibrary\\ui\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classlibrary\\bl\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|solutionrelative:classlibrary\\bl\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classlibrary\\bl\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42C8CA-0402-4663-AEEA-DE0B8214FA6C}|classLibrary\\classLibrary.csproj|solutionrelative:classlibrary\\bl\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovementLimits.cs",
+              "DocumentMoniker": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\UI\\MovementLimits.cs",
+              "RelativeDocumentMoniker": "classLibrary\\UI\\MovementLimits.cs",
+              "ToolTip": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\UI\\MovementLimits.cs",
+              "RelativeToolTip": "classLibrary\\UI\\MovementLimits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:04:16.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\UI\\main.cs",
+              "RelativeDocumentMoniker": "classLibrary\\UI\\main.cs",
+              "ToolTip": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\UI\\main.cs",
+              "RelativeToolTip": "classLibrary\\UI\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:14:16.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nodes.cs",
+              "DocumentMoniker": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\BL\\Nodes.cs",
+              "RelativeDocumentMoniker": "classLibrary\\BL\\Nodes.cs",
+              "ToolTip": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\BL\\Nodes.cs",
+              "RelativeToolTip": "classLibrary\\BL\\Nodes.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:54:45.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stacks.cs",
+              "DocumentMoniker": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\BL\\Stacks.cs",
+              "RelativeDocumentMoniker": "classLibrary\\BL\\Stacks.cs",
+              "ToolTip": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\BL\\Stacks.cs",
+              "RelativeToolTip": "classLibrary\\BL\\Stacks.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:52:57.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\BL\\Queue.cs",
+              "RelativeDocumentMoniker": "classLibrary\\BL\\Queue.cs",
+              "ToolTip": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\BL\\Queue.cs",
+              "RelativeToolTip": "classLibrary\\BL\\Queue.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:52:47.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Images.cs",
+              "DocumentMoniker": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\DL\\Images.cs",
+              "RelativeDocumentMoniker": "classLibrary\\DL\\Images.cs",
+              "ToolTip": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\DL\\Images.cs",
+              "RelativeToolTip": "classLibrary\\DL\\Images.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwEUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:49:03.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cards.cs",
+              "DocumentMoniker": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\BL\\Cards.cs",
+              "RelativeDocumentMoniker": "classLibrary\\BL\\Cards.cs",
+              "ToolTip": "C:\\Users\\asadt\\Desktop\\new folder\\classLibrary\\classLibrary\\BL\\Cards.cs",
+              "RelativeToolTip": "classLibrary\\BL\\Cards.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwCUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:46:51.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

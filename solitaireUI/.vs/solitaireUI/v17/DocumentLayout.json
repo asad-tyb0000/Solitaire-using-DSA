@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asadt\\Desktop\\new folder\\solitaireUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F20E15-75A3-44E9-93EB-34A80B7A2E2B}|solitaireUI\\solitaireUI.csproj|c:\\users\\asadt\\desktop\\new folder\\solitaireui\\solitaireui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F20E15-75A3-44E9-93EB-34A80B7A2E2B}|solitaireUI\\solitaireUI.csproj|solutionrelative:solitaireui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F20E15-75A3-44E9-93EB-34A80B7A2E2B}|solitaireUI\\solitaireUI.csproj|C:\\Users\\asadt\\Desktop\\new folder\\solitaireUI\\solitaireui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92F20E15-75A3-44E9-93EB-34A80B7A2E2B}|solitaireUI\\solitaireUI.csproj|solutionrelative:solitaireui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\asadt\\Desktop\\new folder\\solitaireUI\\solitaireUI\\Form1.cs",
+              "RelativeDocumentMoniker": "solitaireUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\asadt\\Desktop\\new folder\\solitaireUI\\solitaireUI\\Form1.cs",
+              "RelativeToolTip": "solitaireUI\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:20:10.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asadt\\Desktop\\new folder\\solitaireUI\\solitaireUI\\Form1.cs",
+              "RelativeDocumentMoniker": "solitaireUI\\Form1.cs",
+              "ToolTip": "E:\\semester 3\\DSA lab\\projects\\Solitaire project\\he\\solitaireUI\\solitaireUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:15:37.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
